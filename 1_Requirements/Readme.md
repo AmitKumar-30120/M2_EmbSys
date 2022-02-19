@@ -8,7 +8,7 @@
 
  ** Components Required :
 
- *     AVR- ATmega328 microcontroller.
+ *   AVR- ATmega328 microcontroller
 
  *   HC-SR04 Ultrasonic Sensor
 
