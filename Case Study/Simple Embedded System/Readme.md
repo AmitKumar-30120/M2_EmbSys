@@ -1,3 +1,5 @@
+![Block Diagram](https://github.com/AmitKumar-30120/M2_EmbSys/blob/main/Case%20Study/Simple%20Embedded%20System/block%20diagramm.png)
+
 # Components used in Simple Standalone Embedded System - Washing Machine
 
 ## Display unit: 
