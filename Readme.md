@@ -2,4 +2,4 @@
 
 ## Obstacle avoidance Robot using ATmega238
 
-![Robot](robot_image/Robot.png)
+![](https://miro.medium.com/max/583/1*TMIAsl5FOo3DRYsqqe404w.png)
