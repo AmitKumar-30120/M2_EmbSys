@@ -49,7 +49,7 @@
 |       |                  way using servo motor for directions checking.                          |                   |
 | HR05  |  The System should able to move forward after taking turns in its way                    | HR05  |           |     
 | HR06  |  The System should get turn off when user toggle input switch so that the system         |HR06   |           | 
-|       |                coulde be power efficient.                                                |       |           |      
+|       |                could be power efficient.                                                |       |           |      
 
 
 

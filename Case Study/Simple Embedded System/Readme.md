@@ -36,11 +36,13 @@
 
     when it is open and close. Similarly it gets the information about the opening and closing of drain valve.
 
+## Manula Mode: 
+
 * Washing: Washing mode can be the input and user can select it separately if he/she needs to wash clothes.
 
 * Rinsing: This mode can also be fed by the user input for cleaning and rinsing the clothes, if he/she wants to do this 
 
-            separately.
+    separately.
 
 * drying: This mode can alse be selected by the user input for drying the clothes whenever needed.
 
