@@ -46,3 +46,7 @@
 
 * drying: This mode can alse be selected by the user input for drying the clothes whenever needed.
 
+## Applications of Washing Machine : -
+
+* A washing machine is a home appliance used to wash laundry
+

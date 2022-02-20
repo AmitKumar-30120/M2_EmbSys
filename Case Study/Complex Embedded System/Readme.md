@@ -51,5 +51,11 @@
 | HR06  |  The System should get turn off when user toggle input switch so that the system         |HR06   |           | 
 |       |                could be power efficient.                                                |       |           |      
 
+## Applications : - 
 
+*  Obstacle avoiding robots can be used in almost all mobile robot navigation systems
+
+   They can be used for household work like automatic vacuum cleaning
+   
+   They can also be used in dangerous environments, where human penetration could be fatal
 
