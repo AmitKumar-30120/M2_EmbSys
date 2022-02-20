@@ -36,7 +36,7 @@
 
     when it is open and close. Similarly it gets the information about the opening and closing of drain valve.
 
-## Manula Mode: 
+## Manual Mode: 
 
 * Washing: Washing mode can be the input and user can select it separately if he/she needs to wash clothes.
 
