@@ -1,28 +1,50 @@
-## Requirements
+# Requirements
 
- * Before elaborating High level and low level requirement of Obstacle 
-
-    avoidance robot, first i would like to list here its components 
+ *    Before elaborating High level and low level requirement of Obstacle avoidance robot, first i would like to list 
  
-    required.
+      here its components required.
 
- ### Components Required :
+ ## Components Required :
 
- *   AVR- ATmega328 microcontroller
+ *   AVR- ATmega328 microcontroller:- ATmega328 is an Advanced Virtual RISC (AVR) microcontroller. It supports 8-bit data 
+ 
+      processing. ATmega328 has 32KB internal flash memory and 1KB Electrically Erasable Programmable Read-Only Memory 
+      
+      (EEPROM). This property shows if the electric supply supplied to the micro-controller is removed, even then it can
+      
+      store the data and can provide results after providing it with the electric supply. Moreover, ATmega328 has 2KB 
+      
+      Static Random Access Memory (SRAM).
 
- *   HC-SR04 Ultrasonic Sensor
+ *   HC-SR04 Ultrasonic Sensor:- The sonic waves emitted by the transducer are bounced back by an object and received 
 
- *   LM298N Motor Driver Module
+      back in the transducer. After having emitted the sound waves, the ultrasonic sensor will switch to receive mode. 
+      
+      The time elapsed between emitting and receiving is proportional to the distance of the object from the sensor.
 
- *   5V DC Motors
+      Distance can be calculated using : D = (time * Speed of sound )/2
 
- *   Battery
+ *   LM298N Motor Driver Module:- L293D is a typical motor driver or motor driver IC which allows DC motor to drive on 
+      
+      either direction. It is a 16-pin IC which can control a set of two DC motors simultaneously in any direction. It 
+      
+      means that it can control two DC motor with a single L293D IC.
 
- *   Wheels
+ *   DC Motors:- A DC motor in simple words is a device. An Electric DC motor is a machine which converts electric energy 
+      
+      into mechanical energy. This DC or direct current motor works on the principal, when a current carrying conductor 
+      
+      is placed in a magnetic field, it experiences a torque and has a tendency to move.This is known as motoring action. 
+      
+      If the direction of current in the wire is reversed, the direction of rotation also reverses.
 
- *   Chassis
+ *   Battery:- A typical 9V battery is used to energizes the circuit and ready to work.
 
- *   Jumper Wires
+ *   Wheels:- A pair of wheels are used to move the robot in back and forward directions.
+
+ *   Chassis:- A car model chassis is used to fabricate all the components on that.
+
+ *   Jumper Wires:- Jumper wires are used for the connections in between the components altogether.
 
  ## High Level Requirement
 
