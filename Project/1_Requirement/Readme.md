@@ -38,5 +38,9 @@ Input capture module of the ATMEGA was used to capture the time between rising a
 
 The display in use is LCD which has an integrated chip that converts serial data (via I2C bus) into parallel stream of bits for the LCD
 
+## S.W.O.T analysis
 
+The following image represents the swot analysis that i have done.
+
+![diagram]()
 
