@@ -36,7 +36,29 @@ Timer2 of ATMEGA328p is used to generate a Trigger pulse of 20uS, the ultrasonic
 
 Input capture module of the ATMEGA was used to capture the time between rising and falling edges of the echo pulse. The prescaler of this unit was chosen, such that the resolution of pulse-width is 16uS.
 
-The display in use is LCD which has an integrated chip that converts serial data (via I2C bus) into parallel stream of bits for the LCD
+The display in use is LCD which has an integrated chip that converts serial data (via I2C bus) into parallel stream of bits for the LCD.
+
+## 4W's and 1'H
+
+WHAT:
+
+Distance is a numerical measurement of how far apart objects or points are.Ultrasonic sensor provides an easy way in distance measurement.
+
+WHY:
+
+Ultrasonic sensors are great tools to measure distance and detect objects without any actual contact with the physical world. It is used in several applications.
+
+WHERE:
+
+Measuring liquid level, checking proximity and even more popularly in automobiles to assist in self-parking or anti-collision systems.
+
+WHEN: 
+
+The ultrasonic sensor emits a high-frequency sound pulse and calculates the distance depending upon the time taken by the echo signal to travel back after reflecting from the desired target. The speed of sound is 341 meters per second in air. After the distance is calculated, it will be displayed on the LCD display.
+
+How:
+
+This project, we have used the HC-SR04 Ultrasonic Sensor with ATMEGA328 to determine the distance of an obstacle from the sensor. The basic principle of ultrasonic distance measurement is based on ECHO.
 
 ## S.W.O.T analysis
 
