@@ -52,4 +52,13 @@ The following image represents the swot analysis that i have done.
 | LR02 |Timer2 of ATMEGA328p is used to generate a Trigger pulse of 20uS,  |
 | LR03 |The prescaler of this unit was chosen, such that the resolution of pulse-width is 16uS. |
 
+## Low Level Requirements
+
+| ID | Description |
+| --- | --- |
+| HR01 |Enable ICP Interrupt |
+| HR02 |Enable rising edge detection,noise cancellation|
+| HR03 |Enable internal pullups on PORTC PINS  SDA(PC4) ,SCL(PC5) |
+| HR04 | I2C and LCD |
+
 
