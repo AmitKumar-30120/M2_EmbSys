@@ -1,7 +1,21 @@
-# Embedded C Programming
+# M2_EmbSys
 
-## Obstacle avoidance Robot using ATmega328
+## Distance measurement system
 
-Obstacle Avoiding Robot is an intelligent device that can automatically sense the obstacle in front of it and avoid them by turning itself in another direction. This design allows the robot to navigate in an unknown environment by avoiding collisions, which is a primary requirement for any autonomous mobile robot. The application of the Obstacle Avoiding robot is not limited and it is used in automatic vacuum cleaning,in almost all mobile robot navigation systems and most of the military organizations now which helps carry out many risky jobs that cannot be done by any soldiers.
+* This project is on distance measurement system using ultrasonic sensor. This system provides an efficient way on 
+
+    measuring small distances precisely without any actual contact with the physical world. 
+
+    It is used in several applications like automobile to assist in car-parking or anti-collision systems and in measuring
+
+    liquid level and many more.
+
+    __Future Scope__  of this project could be Obstacle avoidance vehicle/robot, this obstacle avoidance robot is based 
+
+    on the principle of ultrasonic sensor as well. The basic principle of ultrasonic sensor based on the principle of echo
+
+    . When sound waves are transmitted in the environment by the ultrasonic sensor then waves return back to the origin 
+
+    as echo after striking on the obstacle in its path. 
 
 ![](https://miro.medium.com/max/583/1*TMIAsl5FOo3DRYsqqe404w.png)
