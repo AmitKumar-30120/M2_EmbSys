@@ -122,7 +122,7 @@ The following image represents the swot analysis that i have done.
     they get collided to the obstacle.
 
 *   __LCD Display :-__ A typical 16*2 lcd display is used to produce the output distance calculated 
-
+ 
     by the ultrasonic sensor on the screen.
 
 *   __Power Supply :-__ A power supply rail and ground is used to enrgize the circuit in the simulide 
@@ -131,7 +131,7 @@ The following image represents the swot analysis that i have done.
 
 ## Future Scope  
     
-    Future scope of this project could be __Obstacle avoidance robot__, this obstacle 
+*   Future scope of this project could be __Obstacle avoidance robot__ this obstacle 
     
     avoidance robot is based on the principle of ultrasonic sensor as well. The basic principle of 
     
