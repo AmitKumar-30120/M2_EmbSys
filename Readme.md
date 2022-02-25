@@ -129,6 +129,17 @@ The following image represents the swot analysis that i have done.
 
     for the simulation purpose.
 
+## Applications :-
+
+*   It Used to measure the obstacle distance precisely.
+
+*   This system can be used in automobile parking sensors and anti-collision systems.
+
+*   It can be used in remote control robot projects for surveillance.
+
+*   It can be used in Obstacle avoidance robot to monitor where human interaction is not possible.
+
+
 ## Future Scope  
     
 *   Future scope of this project could be __Obstacle avoidance robot__ this obstacle 
