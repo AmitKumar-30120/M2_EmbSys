@@ -42,5 +42,14 @@ The display in use is LCD which has an integrated chip that converts serial data
 
 The following image represents the swot analysis that i have done.
 
-![diagram]()
+![diagram](https://github.com/AmitKumar-30120/M2_EmbSys/blob/main/Project/6_ImagesAndVideos/Swot_Image.png)
+
+## High Level Requirements
+
+| ID | Description |
+| --- | --- |
+| LR01 |The Timer count (OCR2A) of Timer2 was chosen |
+| LR02 |Timer2 of ATMEGA328p is used to generate a Trigger pulse of 20uS,  |
+| LR03 |The prescaler of this unit was chosen, such that the resolution of pulse-width is 16uS. |
+
 
