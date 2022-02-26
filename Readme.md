@@ -91,7 +91,7 @@ The following image represents the swot analysis that i have done.
 
 ![diagram](https://github.com/AmitKumar-30120/M2_EmbSys/blob/main/Project/2_Architecture/block_diagram1.png)
 
-*   __AVR- ATmega328 microcontroller:-__ ATmega328 is an Advanced Virtual RISC (AVR) microcontroller. 
+*   __AVR- ATmega328 Microcontroller:-__ ATmega328 is an Advanced Virtual RISC (AVR) microcontroller. 
 
     It supports 8-bit data processing. ATmega328 has 32KB internal flash memory and 1KB Electrically 
     
@@ -102,6 +102,8 @@ The following image represents the swot analysis that i have done.
     results after providing it with the electric supply. Moreover, ATmega328 has 2KB Static Random 
     
     Access Memory (SRAM).
+
+##  Sensors:-   
 
 *   __HC-SR04 Ultrasonic Sensor:-__ The sonic waves emitted by the transducer are bounced back by   
 
@@ -120,6 +122,13 @@ The following image represents the swot analysis that i have done.
 *   __Receiver(Echo Pin) :-__ The transmitted waves return back and received by the echo pin when   
 
     they get collided to the obstacle.
+
+## Actuators:-
+
+*   __Buzzer:-__ When the ultrasonic sensor calculates the distance of the obstacle then it starts 
+
+    beeping in the environment indicating that process has been completed.
+
 
 *   __LCD Display :-__ A typical 16*2 lcd display is used to produce the output distance calculated 
  
