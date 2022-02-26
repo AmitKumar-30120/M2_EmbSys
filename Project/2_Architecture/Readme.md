@@ -17,7 +17,7 @@
 
 ![diagram](https://github.com/AmitKumar-30120/M2_EmbSys/blob/main/Project/2_Architecture/block_diagram1.png)
 
-*    __AVR- ATmega328 microcontroller:-__ ATmega328 is an Advanced Virtual RISC (AVR) 
+*   __AVR- ATmega328 microcontroller:-__ ATmega328 is an Advanced Virtual RISC (AVR) 
 
     microcontroller. 
 
