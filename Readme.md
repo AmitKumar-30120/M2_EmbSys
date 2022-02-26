@@ -72,20 +72,20 @@ The following image represents the swot analysis that i have done.
 
 ## High Level Requirements
 
-| ID | Description |
-| --- | --- |
-| LR01 |The Timer count (OCR2A) of Timer2 was chosen |
-| LR02 |Timer2 of ATMEGA328p is used to generate a Trigger pulse of 20uS,  |
-| LR03 |The prescaler of this unit was chosen, such that the resolution of pulse-width is 16uS. |
+|  ID   | Description |
+| ---   | --- |
+| HLR01 |The Timer count (OCR2A) of Timer2 was chosen |
+| HLR02 |Timer2 of ATMEGA328p is used to generate a Trigger pulse of 20uS,  |
+| HLR03 |The prescaler of this unit was chosen, such that the resolution of pulse-width is 16uS. |
 
 ## Low Level Requirements
 
-| ID | Description |
-| --- | --- |
-| HR01 |Enable ICP Interrupt |
-| HR02 |Enable rising edge detection,noise cancellation|
-| HR03 |Enable internal pullups on PORTC PINS  SDA(PC4) ,SCL(PC5) |
-| HR04 | I2C and LCD |
+|   ID  | Description |
+| ----- | ----- |
+| LLR01 |Enable ICP Interrupt |
+| LLR02 |Enable rising edge detection,noise cancellation|
+| LLR03 |Enable internal pullups on PORTC PINS  SDA(PC4) ,SCL(PC5) |
+| LLR04 | I2C and LCD |
 
 # Block Diagram And Explanation :
 
