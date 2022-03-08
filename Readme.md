@@ -1,6 +1,6 @@
 # M2_EmbSys
 
-![](https://api.codiga.io/project/31741/score/svg)  ![](https://api.codiga.io/project/31741/status/svg) 
+![](https://api.codiga.io/project/31741/score/svg)  ![](https://api.codiga.io/project/31741/status/svg) [![Valgrind](https://github.com/AmitKumar-30120/M2_EmbSys/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/AmitKumar-30120/M2_EmbSys/actions/workflows/Valgrind.yml)
 
 ## Distance measurement system
 
