@@ -1,9 +1,9 @@
 #ifndef __AVR_ATmega328__
-	#define __AVR_ATmega328__
+	#define __AVR_ATmega3288__
 #endif
 
 
-#include <avr/iom328p.h>
+#include <avr/io.h>
 #include <util/delay.h>
 #include <avr/interrupt.h>
 
